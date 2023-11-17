@@ -3,7 +3,7 @@
 
 - 🔭 I'm one of the leaders of [AllayMC](https://github.com/AllayMC)
 
-- 📝 I used to work in [PowerNukkitX](https://github.com/PowerNukkitX/PowerNukkitX)
+- 📝 I used to work in [PowerNukkitX](https://github.com/PowerNukkitX)
 
 - 💬 Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="132" height="30" width="40" />**Cool_Loong**
 
